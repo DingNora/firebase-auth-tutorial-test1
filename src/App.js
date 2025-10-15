@@ -5,6 +5,8 @@ import Register from "./Register";
 import Reset from "./Reset";
 import Dashboard from "./Dashboard";
 
+//test the automation workflow
+
 function App() {
   return (
     <div className="app">
