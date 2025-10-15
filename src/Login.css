@@ -26,7 +26,8 @@
   margin-bottom: 10px;
   border: none;
   color: white;
-  background-color: black;
+  background-color: purple;
+  font-family: Georgia, serif;
 }
 
 .login__google {
